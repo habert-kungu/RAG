@@ -1,0 +1,34 @@
+{
+  "name": "rag-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habert-kungu/RAG.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/habert-kungu/RAG/issues"
+  },
+  "homepage": "https://github.com/habert-kungu/RAG#readme",
+  "devDependencies": {
+    "@types/node": "^24.2.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "@langchain/community": "^0.3.50",
+    "@langchain/google-genai": "^0.2.16",
+    "ajv": "^8.17.1",
+    "langchain": "^0.3.30",
+    "mongodb": "^6.18.0",
+    "pdf-parse": "^1.1.1"
+  }
+}
