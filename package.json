@@ -26,6 +26,7 @@
   "dependencies": {
     "@langchain/community": "^0.3.50",
     "@langchain/google-genai": "^0.2.16",
+    "@langchain/mongodb": "^0.1.0",
     "ajv": "^8.17.1",
     "langchain": "^0.3.30",
     "mongodb": "^6.18.0",
